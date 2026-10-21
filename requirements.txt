@@ -1,0 +1,4 @@
+# Versions used to generate the included results with Python 3.12.14.
+obspy==1.5.1
+matplotlib==3.11.2
+numpy==2.5.3

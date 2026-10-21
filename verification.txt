@@ -1,0 +1,7 @@
+PASS: 1708 depth/distance/phase combinations represented; 2440 rows.
+PASS: all relative times, inclusive window flags and missing values consistent.
+PASS: 66 arrivals checked with separate single-phase get_ray_paths calls.
+Maximum travel-time difference: 0.00002057 s (tolerance 0.01 s).
+PASS: SKKS 110-degree and 250-degree paths both retained at 300 km / 110 degrees.
+Status counts: {'no_phase_arrival': 154, 'no_sdiff_reference': 441, 'ok': 1845}
+Scope: internal numerical checks using ObsPy; not an independent Earth-model validation.
